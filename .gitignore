@@ -1,0 +1,10 @@
+.env
+embeddings.joblib
+audios/
+videos/
+jsons/
+__pycache__/
+*.pyc
+.DS_Store
+prompt.txt
+response.txt
